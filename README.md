@@ -4,5 +4,5 @@ PyGeoLab is a software application for data acquisition and control in the geote
 
 A sample interface is shown below:
 
-![Alt text](GUI_002.pdf "GUI_002.pdf")
+![Alt text](GUI_002.png "GUI_002.png")
 
